@@ -97,7 +97,7 @@ results/              all CSV/JSON/npz outputs quoted in the manuscript
 | Table 14 (parameter prediction, LOOCV) | `python src/analysis3.py` | `results/peak_loocv.csv` |
 | Tables 15, 16 (significance) | as above | `results/significance.json`, `results/significance_new.json` |
 | **Table 17 (tangent diagnostics)** | `python src/tangent_analysis.py` | `results/table17_tangent.csv` |
-| All figures | `python src/figures.py && python src/mkfigs.py` | `figures/*.pgf` (native TikZ, no raster) |
+
 
 The stored `.npz` archives (`results/preds2.npz`, `results/pred_all.npz`) contain the
 blind-mixture predictions, so Tables 7 and 17 can be regenerated **without retraining**.
