@@ -1,0 +1,20 @@
+model,param,value,RMSE
+XGBoost,max_depth,3.0,2.281897994939787
+XGBoost,max_depth,4.0,2.2221286618636307
+XGBoost,max_depth,5.0,2.1651538675064157
+XGBoost,max_depth,6.0,2.1570009034620137
+XGBoost,n_estimators,200.0,2.3130340652016033
+XGBoost,n_estimators,500.0,2.2221286618636307
+XGBoost,n_estimators,800.0,2.2888981433413336
+Random Forest,n_estimators,100.0,3.2214409355744777
+Random Forest,n_estimators,400.0,3.2448965920750363
+Random Forest,n_estimators,800.0,3.2169739553753063
+Random Forest,max_depth,6.0,3.841384517539033
+Random Forest,max_depth,8.0,3.3695978997835208
+Random Forest,max_depth,12.0,3.2432162509491023
+Random Forest,random_state,42.0,3.2448965920750363
+Random Forest,random_state,7.0,3.228604279633383
+Random Forest,random_state,2024.0,3.21256102966056
+Gaussian Process,RBF length_scale,0.5,2.6980346460020614
+Gaussian Process,RBF length_scale,1.0,2.698032491813171
+Gaussian Process,RBF length_scale,2.0,2.698037458601946

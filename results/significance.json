@@ -1,0 +1,31 @@
+{
+  "splitB_PINN_vs_control_RMSE_diff_CI95": [
+    NaN,
+    NaN
+  ],
+  "splitB_PINN_vs_control_note": "cluster bootstrap over the 5 held-out mixtures",
+  "multisplit_wilcoxon_PINN_vs_NN data-only (matched control)": {
+    "stat": 0.0,
+    "p": NaN,
+    "median_RMSE_diff": 0.0,
+    "n": 15
+  },
+  "multisplit_wilcoxon_PINN_vs_XGBoost": {
+    "stat": 9.0,
+    "p": 0.00201416015625,
+    "median_RMSE_diff": 0.674679306051599,
+    "n": 15
+  },
+  "multisplit_wilcoxon_PINN_vs_Gaussian Process": {
+    "stat": 54.0,
+    "p": 0.76153564453125,
+    "median_RMSE_diff": 0.11521409955208162,
+    "n": 15
+  },
+  "multisplit_wilcoxon_PINN_vs_Random Forest": {
+    "stat": 33.0,
+    "p": 0.1353759765625,
+    "median_RMSE_diff": -0.25359062687969347,
+    "n": 15
+  }
+}

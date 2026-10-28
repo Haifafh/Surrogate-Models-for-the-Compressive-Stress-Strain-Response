@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or the digitised dataset, please cite both the software and the source data."
+title: "ecc-surrogate-benchmark: leakage-free benchmarking of surrogate models for the compressive stress-strain response of nanosilica/PVA engineered cementitious composites"
+type: software
+authors:
+  - family-names: Alhasson
+    given-names: Haifa F.
+    affiliation: "Department of Information Technology, College of Computer, Qassim University, Buraydah 51452, Saudi Arabia"
+  - family-names: Albadrani
+    given-names: Mohammed A.
+    affiliation: "Department of Mechanical Engineering, College of Engineering, Qassim University, Buraydah 51452, Saudi Arabia"
+  - family-names: Alharbi
+    given-names: Shuaa S.
+    affiliation: "Department of Information Technology, College of Computer, Qassim University, Buraydah 51452, Saudi Arabia"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-18"
+keywords:
+  - engineered cementitious composite
+  - surrogate model
+  - physics-informed neural network
+  - Kolmogorov-Arnold network
+  - DeepONet
+  - blind-mixture validation
+references:
+  - type: article
+    title: "Source experimental data (companion study)"
+    authors:
+      - family-names: Albadrani
+        given-names: Mohammed A.
+    journal: Polymers
+    year: 2025
+    notes: "Polymers 2025, 17, 2067. The digitised stress-strain curves originate from this experimental study."

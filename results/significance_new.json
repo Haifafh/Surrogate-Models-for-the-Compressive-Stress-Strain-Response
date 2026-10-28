@@ -1,0 +1,17 @@
+{
+  "PIKAN_vs_MLP data-only": {
+    "p": 1.0,
+    "median_diff": -0.23852959268317941,
+    "n": 6
+  },
+  "PIKAN_vs_DeepONet": {
+    "p": 1.0,
+    "median_diff": -0.12661377843112742,
+    "n": 6
+  },
+  "PIKAN_vs_XGBoost": {
+    "p": 0.03125,
+    "median_diff": 0.9443824061270263,
+    "n": 6
+  }
+}

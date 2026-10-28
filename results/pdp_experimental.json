@@ -1,0 +1,16 @@
+{
+  "experimental_peak_vs_nS_at_best_PVA": [
+    66.0,
+    66.0,
+    80.0,
+    75.0,
+    70.0,
+    74.0
+  ],
+  "experimental_peak_vs_PVA_at_best_nS": [
+    80.0,
+    76.0,
+    72.0,
+    70.0
+  ]
+}

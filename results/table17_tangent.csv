@@ -1,0 +1,9 @@
+model,E0_error_pct,secant_error_pct,roughness
+Measured curve,,,0.12816657806131732
+"MLP, data only (lambda=0)",2.1,5.7,0.18
+"MLP, full physics (lambda=1,1,1)",11.4,3.4,1.36
+"Spline network, data only",11.5,4.8,0.13
+"Spline network, elastic pin",9.1,4.7,0.13
+DeepONet,6.4,3.8,0.13
+"DeepONet, elastic pin",4.6,4.7,0.12
+Gradient-boosted tree,8.2,3.2,0.24
