@@ -7,7 +7,7 @@ Code, digitised data and results for the manuscript:
 > Machine-Learning, Physics-Informed, Spline, and Operator Architectures**
 > H. F. Alhasson, M. A. Albadrani, S. S. Alharbi — *Polymers* (MDPI), 2026.
 
-A. Alhassan, M. Albadrani, S. Alharbi, _Polymers_ (submitted).
+H. F. Alhasson, M. Albadrani, S. S. Alharbi, _Polymers (submitted).
 
 ## What this repository is for
 
@@ -124,12 +124,6 @@ and a **curvature-smoothness** term.
 
 Split B is the operationally relevant one. Split A is retained only to show how much it
 inflates R².
-
-## Figures
-
-Every drawing in the manuscript is **native TikZ/PGF**, never raster. `pdfimages -list`
-on the compiled PDF returns only the four MDPI logo bitmaps. The figure scripts write
-`.pgf` directly, so figures stay editable and scale without loss.
 
 ## Licence and citation
 
