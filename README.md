@@ -84,8 +84,6 @@ scripts/
   01_build_dataset.py   workbook -> dataset_curves.csv (reproduces to 1e-14 MPa)
   02_smoke_benchmark.py fast verification
 results/              all CSV/JSON/npz outputs quoted in the manuscript
-manuscript/           MDPI LaTeX source, tables, and the 58 native PGF figure files
-tools/                subfigure splitter and caption patcher
 ```
 
 ## Reproducing specific results
